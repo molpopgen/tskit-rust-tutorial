@@ -1,0 +1,6 @@
+[book]
+authors = ["Kevin R. Thornton"]
+language = "en"
+multilingual = false
+src = "src"
+title = "tskit-rust tutorial"
